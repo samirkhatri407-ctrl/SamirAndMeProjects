@@ -1,6 +1,6 @@
 public class calculator {
     public static void main(String[] args) {
-//developed
+//developed//java calculator.
 
 
         int addedResult = add(100, 65);
