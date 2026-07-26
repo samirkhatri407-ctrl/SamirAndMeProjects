@@ -1,7 +1,7 @@
 public class calculator {
     public static void main(String[] args) {
 
-
+//This is indictaed by Samir.
         int addedResult = add(100, 65);
         System.out.println("Added ..." + addedResult);
 
